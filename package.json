@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "style": "standard --fix",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,12 +13,15 @@
     "url": "git+https://github.com/VCNinc/account-sharing-prototype.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/VCNinc/account-sharing-prototype/issues"
   },
   "homepage": "https://github.com/VCNinc/account-sharing-prototype#readme",
   "dependencies": {
     "http-proxy": "^1.18.1"
+  },
+  "devDependencies": {
+    "standard": "^16.0.4"
   }
 }
