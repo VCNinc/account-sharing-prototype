@@ -1,0 +1,22 @@
+{
+  "name": "account-sharing-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VCNinc/account-sharing-prototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VCNinc/account-sharing-prototype/issues"
+  },
+  "homepage": "https://github.com/VCNinc/account-sharing-prototype#readme",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
