@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/VCNinc/account-sharing-prototype#readme",
   "dependencies": {
+    "express": "^4.17.2",
     "http-proxy": "^1.18.1"
   },
   "devDependencies": {
